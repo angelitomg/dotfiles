@@ -1,2 +1,2 @@
-#!/bin/sh
-cp -r conf/.* ~/
+#!/bin/bash
+cp conf/.vimrc ~/
