@@ -10,9 +10,10 @@ set number
 " Indent
 set autoindent
 set smartindent
-set tabstop=4
-set shiftwidth=4
 set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
 
 " Enable mouse
 set mouse=a
