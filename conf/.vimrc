@@ -14,6 +14,7 @@ set encoding=utf8
 set number
 
 " Indent
+set modeline
 set autoindent
 set smartindent
 set expandtab
