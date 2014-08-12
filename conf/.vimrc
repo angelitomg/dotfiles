@@ -4,9 +4,6 @@ syntax on
 " 256 colors
 set t_Co=256
 
-" Colorscheme
-colorscheme twilight256
-
 " Encoding
 set encoding=utf8
 
