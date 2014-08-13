@@ -20,7 +20,7 @@ set softtabstop=4
 set tabstop=4
 
 " Enable mouse
-set mouse=a
+" set mouse=a
 
 " Highlight Search
 set hlsearch
